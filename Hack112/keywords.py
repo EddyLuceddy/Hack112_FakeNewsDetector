@@ -2,7 +2,7 @@ import paralleldots
 
 from paralleldots import set_api_key, get_api_key
 
-set_api_key("97FJ7bd3rnhTmzIyYJiMY38ygPuUeZAbVdBSXPaJNZc")
+set_api_key("DLlnCmYuaPrVTHzi1vvHxKieI7NFZoLYB6LEslxsJMA")
 
 from paralleldots import (similarity, ner, taxonomy, sentiment, keywords, 
 intent, emotion, multilang, abuse)
